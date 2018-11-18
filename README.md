@@ -8,7 +8,8 @@ https://www-bcf.usc.edu/~gareth/ISL/
 
 https://www.coursera.org/learn/machine-learning
 
-The programming assinments given in the former is in R while later is in Octave/Matlab. As a python user I decided to do the exercises in python. There are many topics overlapped from the two resources. While some of the topics are found only among one of them. In this repository I have done programming assigments from the former course. While the assignments from the later course have been solved here.
+The programming assinments given in the former is in R while later is in Octave/Matlab. As a python user I decided to do the exercises in python. There are many topics overlapped from the two resources. While some of the topics are found only among one of them. In this repository I have done programming assigments from the former course. While the assignments from the later course have been solved here: 
+https://github.com/roshankoirala/Machine_learning-
 
 While doing exercise, codes are implemented using the python packages. This was indeed the intiention of the book ISLR, viz to teach students to use the R-packages to solve the statistical learning problems. 
 
